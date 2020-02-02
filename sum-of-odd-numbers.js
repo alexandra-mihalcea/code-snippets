@@ -1,3 +1,5 @@
+// https://www.codewars.com/kata/55fd2d567d94ac3bc9000064
+
 //             1
 //          3     5
 //       7     9    11
@@ -11,13 +13,12 @@
 // 11   12    13    14    15
 
 function rowSumOddNumbers(n) {
-  debugger;
-  let res = 0
-  let lastNum = n * (n + 1) / 2
-  while (n > 0) {
-    res += lastNum * 2 - 1
-    lastNum--
-    n--
-  }
-  return res
+    let res = 0
+    let lastNum = n * (n + 1) / 2
+    while (n > 0) {
+        res += lastNum * 2 - 1
+        lastNum--
+        n--
+    }
+    return res
 }

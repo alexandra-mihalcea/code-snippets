@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="ebd2457e-66b6-4579-ab0d-d97d7442bedf" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -15,21 +25,91 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="JIBmEkjl" />
+  </component>
   <component name="ProjectId" id="1SqhUkXy0cuZ4DvjN6kEycfM25O" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="13.0.1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/simple-pig-latin.js" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$USER_HOME$/AppData/Roaming/npm/node_modules/mocha" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Projects\CodeWars" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.pokemon-go.js">
+    <configuration name="binary-to-text-conversion.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/binary-to-text-conversion.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="deadfish.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/deadfish.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="pokemon-go.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/pokemon-go.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="stop-gninnips-my-sdrow.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/stop-gninnips-my-sdrow.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="validate-my-password.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/validate-my-password.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="simple-pig-latin.js" type="mocha-javascript-test-runner" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$USER_HOME$/AppData/Roaming/npm/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/simple-pig-latin.js</test-file>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Mocha.simple-pig-latin.js" />
+      <item itemvalue="Node.js.deadfish.js" />
+      <item itemvalue="Node.js.stop-gninnips-my-sdrow.js" />
+      <item itemvalue="Node.js.binary-to-text-conversion.js" />
+      <item itemvalue="Node.js.validate-my-password.js" />
+      <item itemvalue="Node.js.pokemon-go.js" />
+    </list>
+    <recent_temporary>
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <item itemvalue="Node.js.pokemon-go.js" />
+        <item itemvalue="Node.js.validate-my-password.js" />
+        <item itemvalue="Node.js.binary-to-text-conversion.js" />
+        <item itemvalue="Node.js.stop-gninnips-my-sdrow.js" />
+        <item itemvalue="Node.js.deadfish.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
       </list>
     </option>
   </component>
@@ -43,11 +123,151 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1572297050722</updated>
-      <workItem from="1572297052430" duration="7234000" />
+      <workItem from="1572297052430" duration="7833000" />
+      <workItem from="1572405028034" duration="1157000" />
+      <workItem from="1572460767294" duration="5447000" />
+      <workItem from="1572830522065" duration="4617000" />
+      <workItem from="1572913298623" duration="1602000" />
+      <workItem from="1572996028016" duration="1791000" />
+      <workItem from="1573068997913" duration="624000" />
+      <workItem from="1573079329737" duration="2561000" />
+      <workItem from="1573312001808" duration="18509000" />
+      <workItem from="1573499175897" duration="18161000" />
+      <workItem from="1573585288302" duration="12087000" />
+      <workItem from="1573679775929" duration="9711000" />
+      <workItem from="1573769939825" duration="7725000" />
+      <workItem from="1579738262053" duration="1825000" />
+      <workItem from="1579906885727" duration="58000" />
+      <workItem from="1580063967872" duration="1399000" />
+      <workItem from="1580160623663" duration="490000" />
+      <workItem from="1580170939996" duration="3110000" />
+      <workItem from="1580239723091" duration="1554000" />
+      <workItem from="1580351557856" duration="3408000" />
+      <workItem from="1580592810564" duration="12113000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="736" y="361" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580359353296">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state x="736" y="361" key="#com.intellij.execution.impl.EditConfigurationsDialog/3840.10.2560.1409/0.0.2560.1409/2833.-1080.1920.1050@0.0.2560.1409" timestamp="1580359353296" />
+    <state x="1061" y="461" key="FileChooserDialogImpl" timestamp="1580359350851">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state x="1061" y="461" key="FileChooserDialogImpl/3840.10.2560.1409/0.0.2560.1409/2833.-1080.1920.1050@0.0.2560.1409" timestamp="1580359350851" />
+    <state x="4901" y="471" key="FileChooserDialogImpl/3840.10.2560.1409/0.0.2560.1409/2833.-1080.1920.1050@3840.10.2560.1409" timestamp="1580171057499" />
+    <state width="2517" height="386" key="GridCell.Tab.0.bottom" timestamp="1580604930407">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state width="2517" height="386" key="GridCell.Tab.0.bottom/0.0.2560.1409/2833.-1080.1920.1050/3840.10.2560.1409@0.0.2560.1409" timestamp="1580604930407" />
+    <state width="2517" height="386" key="GridCell.Tab.0.bottom/3840.10.2560.1409/0.0.2560.1409/2833.-1080.1920.1050@0.0.2560.1409" timestamp="1580360694247" />
+    <state width="2517" height="386" key="GridCell.Tab.0.bottom/3840.10.2560.1409/0.0.2560.1409/2833.-1080.1920.1050@3840.10.2560.1409" timestamp="1580176275770" />
+    <state width="2517" height="386" key="GridCell.Tab.0.center" timestamp="1580604930406">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state width="2517" height="386" key="GridCell.Tab.0.center/0.0.2560.1409/2833.-1080.1920.1050/3840.10.2560.1409@0.0.2560.1409" timestamp="1580604930406" />
+    <state width="2517" height="386" key="GridCell.Tab.0.center/3840.10.2560.1409/0.0.2560.1409/2833.-1080.1920.1050@0.0.2560.1409" timestamp="1580360694246" />
+    <state width="2517" height="386" key="GridCell.Tab.0.center/3840.10.2560.1409/0.0.2560.1409/2833.-1080.1920.1050@3840.10.2560.1409" timestamp="1580176275769" />
+    <state width="2517" height="386" key="GridCell.Tab.0.left" timestamp="1580604930406">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state width="2517" height="386" key="GridCell.Tab.0.left/0.0.2560.1409/2833.-1080.1920.1050/3840.10.2560.1409@0.0.2560.1409" timestamp="1580604930406" />
+    <state width="2517" height="386" key="GridCell.Tab.0.left/3840.10.2560.1409/0.0.2560.1409/2833.-1080.1920.1050@0.0.2560.1409" timestamp="1580360694246" />
+    <state width="2517" height="386" key="GridCell.Tab.0.left/3840.10.2560.1409/0.0.2560.1409/2833.-1080.1920.1050@3840.10.2560.1409" timestamp="1580176275769" />
+    <state width="2517" height="386" key="GridCell.Tab.0.right" timestamp="1580604930406">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state width="2517" height="386" key="GridCell.Tab.0.right/0.0.2560.1409/2833.-1080.1920.1050/3840.10.2560.1409@0.0.2560.1409" timestamp="1580604930406" />
+    <state width="2517" height="386" key="GridCell.Tab.0.right/3840.10.2560.1409/0.0.2560.1409/2833.-1080.1920.1050@0.0.2560.1409" timestamp="1580360694247" />
+    <state width="2517" height="386" key="GridCell.Tab.0.right/3840.10.2560.1409/0.0.2560.1409/2833.-1080.1920.1050@3840.10.2560.1409" timestamp="1580176275769" />
+    <state width="2517" height="479" key="GridCell.Tab.1.bottom" timestamp="1580604410824">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state width="2517" height="479" key="GridCell.Tab.1.bottom/0.0.2560.1409/2833.-1080.1920.1050/3840.10.2560.1409@0.0.2560.1409" timestamp="1580604410824" />
+    <state width="2517" height="479" key="GridCell.Tab.1.center" timestamp="1580604410824">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state width="2517" height="479" key="GridCell.Tab.1.center/0.0.2560.1409/2833.-1080.1920.1050/3840.10.2560.1409@0.0.2560.1409" timestamp="1580604410824" />
+    <state width="2517" height="479" key="GridCell.Tab.1.left" timestamp="1580604410823">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state width="2517" height="479" key="GridCell.Tab.1.left/0.0.2560.1409/2833.-1080.1920.1050/3840.10.2560.1409@0.0.2560.1409" timestamp="1580604410823" />
+    <state width="2517" height="479" key="GridCell.Tab.1.right" timestamp="1580604410824">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state width="2517" height="479" key="GridCell.Tab.1.right/0.0.2560.1409/2833.-1080.1920.1050/3840.10.2560.1409@0.0.2560.1409" timestamp="1580604410824" />
+    <state width="2517" height="479" key="GridCell.Tab.2.bottom" timestamp="1580604410824">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state width="2517" height="479" key="GridCell.Tab.2.bottom/0.0.2560.1409/2833.-1080.1920.1050/3840.10.2560.1409@0.0.2560.1409" timestamp="1580604410824" />
+    <state width="2517" height="479" key="GridCell.Tab.2.center" timestamp="1580604410824">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state width="2517" height="479" key="GridCell.Tab.2.center/0.0.2560.1409/2833.-1080.1920.1050/3840.10.2560.1409@0.0.2560.1409" timestamp="1580604410824" />
+    <state width="2517" height="479" key="GridCell.Tab.2.left" timestamp="1580604410824">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state width="2517" height="479" key="GridCell.Tab.2.left/0.0.2560.1409/2833.-1080.1920.1050/3840.10.2560.1409@0.0.2560.1409" timestamp="1580604410824" />
+    <state width="2517" height="479" key="GridCell.Tab.2.right" timestamp="1580604410824">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state width="2517" height="479" key="GridCell.Tab.2.right/0.0.2560.1409/2833.-1080.1920.1050/3840.10.2560.1409@0.0.2560.1409" timestamp="1580604410824" />
+    <state width="2517" height="479" key="GridCell.Tab.3.bottom" timestamp="1580604410825">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state width="2517" height="479" key="GridCell.Tab.3.bottom/0.0.2560.1409/2833.-1080.1920.1050/3840.10.2560.1409@0.0.2560.1409" timestamp="1580604410825" />
+    <state width="2517" height="479" key="GridCell.Tab.3.center" timestamp="1580604410825">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state width="2517" height="479" key="GridCell.Tab.3.center/0.0.2560.1409/2833.-1080.1920.1050/3840.10.2560.1409@0.0.2560.1409" timestamp="1580604410825" />
+    <state width="2517" height="479" key="GridCell.Tab.3.left" timestamp="1580604410824">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state width="2517" height="479" key="GridCell.Tab.3.left/0.0.2560.1409/2833.-1080.1920.1050/3840.10.2560.1409@0.0.2560.1409" timestamp="1580604410824" />
+    <state width="2517" height="479" key="GridCell.Tab.3.right" timestamp="1580604410825">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state width="2517" height="479" key="GridCell.Tab.3.right/0.0.2560.1409/2833.-1080.1920.1050/3840.10.2560.1409@0.0.2560.1409" timestamp="1580604410825" />
+    <state x="782" y="349" key="SettingsEditor" timestamp="1580358761449">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state x="782" y="349" key="SettingsEditor/3840.10.2560.1409/0.0.2560.1409/2833.-1080.1920.1050@0.0.2560.1409" timestamp="1580358761449" />
+    <state x="981" y="530" key="com.intellij.ide.util.TipDialog" timestamp="1579906887789">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state x="981" y="530" key="com.intellij.ide.util.TipDialog/3840.10.2560.1409/0.0.2560.1409/2833.-1080.1920.1050@0.0.2560.1409" timestamp="1579906887789" />
+    <state x="966" y="309" width="763" height="792" key="find.popup" timestamp="1580602911862">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state x="966" y="309" width="763" height="792" key="find.popup/0.0.2560.1409/2833.-1080.1920.1050/3840.10.2560.1409@0.0.2560.1409" timestamp="1580602911862" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/pokemon-go.js</url>
+          <line>10</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
