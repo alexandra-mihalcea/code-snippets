@@ -9,7 +9,61 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebd2457e-66b6-4579-ab0d-d97d7442bedf" name="Default Changelist" comment="" />
+    <list default="true" id="ebd2457e-66b6-4579-ab0d-d97d7442bedf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-wars/abbreviate-a-two-word-name.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-wars/boiled-aggs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-wars/cat-years-dog-years.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-wars/complementary-dna.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-wars/connected-blocks.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-wars/consecutive-ducks.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-wars/easy-line.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-wars/finding-length-of-sequence" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-wars/isograms" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-wars/naughty-or-nice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-wars/responsible-drinking.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-wars/scrabble-score.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-wars/selective-fear-of-numbers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-wars/simple-fun-136-missing-values" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-wars/sort-santas-reindeer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-wars/spiderman-and-his-enemy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code-wars/the-janitor-and-his-mop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kick-start-google/longest-arithmetic.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/anagrams.js" beforeDir="false" afterPath="$PROJECT_DIR$/code-wars/anagrams.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/binary-convert.js" beforeDir="false" afterPath="$PROJECT_DIR$/code-wars/binary-convert.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/binary-to-text-conversion.js" beforeDir="false" afterPath="$PROJECT_DIR$/code-wars/binary-to-text-conversion.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/create-phone-number.js" beforeDir="false" afterPath="$PROJECT_DIR$/code-wars/create-phone-number.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deadfish.js" beforeDir="false" afterPath="$PROJECT_DIR$/code-wars/deadfish.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/decode-the-morse-code.js" beforeDir="false" afterPath="$PROJECT_DIR$/code-wars/decode-the-morse-code.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/did-i-finish-my-sudoku.js" beforeDir="false" afterPath="$PROJECT_DIR$/code-wars/did-i-finish-my-sudoku.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directions-reduction.js" beforeDir="false" afterPath="$PROJECT_DIR$/code-wars/directions-reduction.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/disemvowel-trolls.js" beforeDir="false" afterPath="$PROJECT_DIR$/code-wars/disemvowel-trolls.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/domain-name-from-url.js" beforeDir="false" afterPath="$PROJECT_DIR$/code-wars/domain-name-from-url.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/find-missing-letter.js" beforeDir="false" afterPath="$PROJECT_DIR$/code-wars/find-missing-letter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/good-vs-evil.js" beforeDir="false" afterPath="$PROJECT_DIR$/code-wars/good-vs-evil.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/josephus-permutation.js" beforeDir="false" afterPath="$PROJECT_DIR$/code-wars/josephus-permutation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/next-bigger-number-with-same-digits.js" beforeDir="false" afterPath="$PROJECT_DIR$/code-wars/next-bigger-number-with-same-digits.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/number-of-trailing-zeros-of-n!.js" beforeDir="false" afterPath="$PROJECT_DIR$/code-wars/number-of-trailing-zeros-of-n!.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/code-wars/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/code-wars/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pokemon-damage-calculator.js" beforeDir="false" afterPath="$PROJECT_DIR$/code-wars/pokemon-damage-calculator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pokemon-go.js" beforeDir="false" afterPath="$PROJECT_DIR$/code-wars/pokemon-go.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/regex-validate-pin-code.js" beforeDir="false" afterPath="$PROJECT_DIR$/code-wars/regex-validate-pin-code.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scramblies.js" beforeDir="false" afterPath="$PROJECT_DIR$/code-wars/scramblies.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-pig-latin.js" beforeDir="false" afterPath="$PROJECT_DIR$/code-wars/simple-pig-latin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sort-one-two-three.js" beforeDir="false" afterPath="$PROJECT_DIR$/code-wars/sort-one-two-three.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stop-gninnips-my-sdrow.js" beforeDir="false" afterPath="$PROJECT_DIR$/code-wars/stop-gninnips-my-sdrow.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/string-incrementer.js" beforeDir="false" afterPath="$PROJECT_DIR$/code-wars/string-incrementer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sum-of-odd-numbers.js" beforeDir="false" afterPath="$PROJECT_DIR$/code-wars/sum-of-odd-numbers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sum-strings-as-numbers.js" beforeDir="false" afterPath="$PROJECT_DIR$/code-wars/sum-strings-as-numbers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/the-hunger-games-zoo-disaster.js" beforeDir="false" afterPath="$PROJECT_DIR$/code-wars/the-hunger-games-zoo-disaster.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/the-supermarket-queue.js" beforeDir="false" afterPath="$PROJECT_DIR$/code-wars/the-supermarket-queue.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/valid-parantheses.js" beforeDir="false" afterPath="$PROJECT_DIR$/code-wars/valid-parantheses.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/validate-my-password.js" beforeDir="false" afterPath="$PROJECT_DIR$/code-wars/validate-my-password.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vasya-and-his-book.js" beforeDir="false" afterPath="$PROJECT_DIR$/code-wars/vasya-and-his-book.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vasya-clerk.js" beforeDir="false" afterPath="$PROJECT_DIR$/code-wars/vasya-clerk.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +75,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="TypeScript File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -35,40 +90,44 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="13.0.1" />
+    <property name="javascript.nodejs.core.library.typings.version" value="13.13.15" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/simple-pig-latin.js" />
     <property name="nodejs.mocha.mocha_node_package_dir" value="$USER_HOME$/AppData/Roaming/npm/node_modules/mocha" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="ts.external.directory.path" value="C:\Users\absqu\AppData\Local\JetBrains\Toolbox\apps\WebStorm\ch-0\201.7223.93\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Projects\CodeWars\code-wars" />
       <recent name="E:\Projects\CodeWars" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.pokemon-go.js">
-    <configuration name="binary-to-text-conversion.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/binary-to-text-conversion.js" working-dir="$PROJECT_DIR$">
+  <component name="RunManager" selected="Node.js.longest-arithmetic.js">
+    <configuration name="consecutive-ducks.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/code-wars/consecutive-ducks.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="deadfish.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/deadfish.js" working-dir="$PROJECT_DIR$">
+    <configuration name="longest-arithmetic.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/kick-start-google/longest-arithmetic.js" working-dir="$PROJECT_DIR$/kick-start-google">
       <method v="2" />
     </configuration>
-    <configuration name="pokemon-go.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/pokemon-go.js" working-dir="$PROJECT_DIR$">
+    <configuration name="pokemon-go.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/code-wars/pokemon-go.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="stop-gninnips-my-sdrow.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/stop-gninnips-my-sdrow.js" working-dir="$PROJECT_DIR$">
+    <configuration name="the-janitor-and-his-mop.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/code-wars/the-janitor-and-his-mop.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="validate-my-password.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/validate-my-password.js" working-dir="$PROJECT_DIR$">
+    <configuration name="validate-my-password.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/code-wars/validate-my-password.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="simple-pig-latin.js" type="mocha-javascript-test-runner" nameIsGenerated="true">
@@ -85,34 +144,23 @@
     </configuration>
     <list>
       <item itemvalue="Mocha.simple-pig-latin.js" />
-      <item itemvalue="Node.js.deadfish.js" />
-      <item itemvalue="Node.js.stop-gninnips-my-sdrow.js" />
-      <item itemvalue="Node.js.binary-to-text-conversion.js" />
-      <item itemvalue="Node.js.validate-my-password.js" />
+      <item itemvalue="Node.js.consecutive-ducks.js" />
       <item itemvalue="Node.js.pokemon-go.js" />
+      <item itemvalue="Node.js.the-janitor-and-his-mop.js" />
+      <item itemvalue="Node.js.validate-my-password.js" />
+      <item itemvalue="Node.js.longest-arithmetic.js" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.pokemon-go.js" />
+        <item itemvalue="Node.js.longest-arithmetic.js" />
         <item itemvalue="Node.js.validate-my-password.js" />
-        <item itemvalue="Node.js.binary-to-text-conversion.js" />
-        <item itemvalue="Node.js.stop-gninnips-my-sdrow.js" />
-        <item itemvalue="Node.js.deadfish.js" />
+        <item itemvalue="Node.js.the-janitor-and-his-mop.js" />
+        <item itemvalue="Node.js.pokemon-go.js" />
+        <item itemvalue="Node.js.consecutive-ducks.js" />
       </list>
     </recent_temporary>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -143,131 +191,66 @@
       <workItem from="1580170939996" duration="3110000" />
       <workItem from="1580239723091" duration="1554000" />
       <workItem from="1580351557856" duration="3408000" />
-      <workItem from="1580592810564" duration="12113000" />
+      <workItem from="1580592810564" duration="12712000" />
+      <workItem from="1581194381682" duration="599000" />
+      <workItem from="1581534876873" duration="1272000" />
+      <workItem from="1581688702024" duration="611000" />
+      <workItem from="1588280429715" duration="17000" />
+      <workItem from="1588280463799" duration="9721000" />
+      <workItem from="1588554634722" duration="2650000" />
+      <workItem from="1588626122504" duration="636000" />
+      <workItem from="1588716607054" duration="13585000" />
+      <workItem from="1588795419578" duration="599000" />
+      <workItem from="1588981874023" duration="636000" />
+      <workItem from="1589142173348" duration="599000" />
+      <workItem from="1589322846113" duration="1202000" />
+      <workItem from="1590370550429" duration="4951000" />
+      <workItem from="1597690324825" duration="38000" />
+      <workItem from="1597690383742" duration="1225000" />
+      <workItem from="1597701602006" duration="599000" />
+      <workItem from="1598398243398" duration="2699000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="736" y="361" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580359353296">
-      <screen x="0" y="0" width="2560" height="1409" />
+    <state x="4852" y="510" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590371811106">
+      <screen x="3840" y="10" width="2560" height="1409" />
     </state>
-    <state x="736" y="361" key="#com.intellij.execution.impl.EditConfigurationsDialog/3840.10.2560.1409/0.0.2560.1409/2833.-1080.1920.1050@0.0.2560.1409" timestamp="1580359353296" />
-    <state x="1061" y="461" key="FileChooserDialogImpl" timestamp="1580359350851">
-      <screen x="0" y="0" width="2560" height="1409" />
+    <state x="4852" y="510" key="#com.intellij.fileTypes.FileTypeChooser/3840.10.2560.1409/0.0.2560.1409/2833.-1080.1920.1050@3840.10.2560.1409" timestamp="1590371811106" />
+    <state width="3397" height="515" key="GridCell.Tab.0.bottom" timestamp="1598399640224">
+      <screen x="3840" y="0" width="3440" height="1440" />
     </state>
-    <state x="1061" y="461" key="FileChooserDialogImpl/3840.10.2560.1409/0.0.2560.1409/2833.-1080.1920.1050@0.0.2560.1409" timestamp="1580359350851" />
-    <state x="4901" y="471" key="FileChooserDialogImpl/3840.10.2560.1409/0.0.2560.1409/2833.-1080.1920.1050@3840.10.2560.1409" timestamp="1580171057499" />
-    <state width="2517" height="386" key="GridCell.Tab.0.bottom" timestamp="1580604930407">
-      <screen x="0" y="0" width="2560" height="1409" />
+    <state width="3397" height="515" key="GridCell.Tab.0.bottom/2955.-1080.1920.1042/0.0.3072.1698/3840.0.3440.1440@3840.0.3440.1440" timestamp="1598399640224" />
+    <state width="2517" height="563" key="GridCell.Tab.0.bottom/3840.10.2560.1409/0.0.2560.1409/2833.-1080.1920.1050@3840.10.2560.1409" timestamp="1590373194279" />
+    <state width="3397" height="515" key="GridCell.Tab.0.center" timestamp="1598399640224">
+      <screen x="3840" y="0" width="3440" height="1440" />
     </state>
-    <state width="2517" height="386" key="GridCell.Tab.0.bottom/0.0.2560.1409/2833.-1080.1920.1050/3840.10.2560.1409@0.0.2560.1409" timestamp="1580604930407" />
-    <state width="2517" height="386" key="GridCell.Tab.0.bottom/3840.10.2560.1409/0.0.2560.1409/2833.-1080.1920.1050@0.0.2560.1409" timestamp="1580360694247" />
-    <state width="2517" height="386" key="GridCell.Tab.0.bottom/3840.10.2560.1409/0.0.2560.1409/2833.-1080.1920.1050@3840.10.2560.1409" timestamp="1580176275770" />
-    <state width="2517" height="386" key="GridCell.Tab.0.center" timestamp="1580604930406">
-      <screen x="0" y="0" width="2560" height="1409" />
+    <state width="3397" height="515" key="GridCell.Tab.0.center/2955.-1080.1920.1042/0.0.3072.1698/3840.0.3440.1440@3840.0.3440.1440" timestamp="1598399640224" />
+    <state width="2517" height="563" key="GridCell.Tab.0.center/3840.10.2560.1409/0.0.2560.1409/2833.-1080.1920.1050@3840.10.2560.1409" timestamp="1590373194279" />
+    <state width="3397" height="515" key="GridCell.Tab.0.left" timestamp="1598399640224">
+      <screen x="3840" y="0" width="3440" height="1440" />
     </state>
-    <state width="2517" height="386" key="GridCell.Tab.0.center/0.0.2560.1409/2833.-1080.1920.1050/3840.10.2560.1409@0.0.2560.1409" timestamp="1580604930406" />
-    <state width="2517" height="386" key="GridCell.Tab.0.center/3840.10.2560.1409/0.0.2560.1409/2833.-1080.1920.1050@0.0.2560.1409" timestamp="1580360694246" />
-    <state width="2517" height="386" key="GridCell.Tab.0.center/3840.10.2560.1409/0.0.2560.1409/2833.-1080.1920.1050@3840.10.2560.1409" timestamp="1580176275769" />
-    <state width="2517" height="386" key="GridCell.Tab.0.left" timestamp="1580604930406">
-      <screen x="0" y="0" width="2560" height="1409" />
+    <state width="3397" height="515" key="GridCell.Tab.0.left/2955.-1080.1920.1042/0.0.3072.1698/3840.0.3440.1440@3840.0.3440.1440" timestamp="1598399640224" />
+    <state width="2517" height="563" key="GridCell.Tab.0.left/3840.10.2560.1409/0.0.2560.1409/2833.-1080.1920.1050@3840.10.2560.1409" timestamp="1590373194279" />
+    <state width="3397" height="515" key="GridCell.Tab.0.right" timestamp="1598399640224">
+      <screen x="3840" y="0" width="3440" height="1440" />
     </state>
-    <state width="2517" height="386" key="GridCell.Tab.0.left/0.0.2560.1409/2833.-1080.1920.1050/3840.10.2560.1409@0.0.2560.1409" timestamp="1580604930406" />
-    <state width="2517" height="386" key="GridCell.Tab.0.left/3840.10.2560.1409/0.0.2560.1409/2833.-1080.1920.1050@0.0.2560.1409" timestamp="1580360694246" />
-    <state width="2517" height="386" key="GridCell.Tab.0.left/3840.10.2560.1409/0.0.2560.1409/2833.-1080.1920.1050@3840.10.2560.1409" timestamp="1580176275769" />
-    <state width="2517" height="386" key="GridCell.Tab.0.right" timestamp="1580604930406">
-      <screen x="0" y="0" width="2560" height="1409" />
-    </state>
-    <state width="2517" height="386" key="GridCell.Tab.0.right/0.0.2560.1409/2833.-1080.1920.1050/3840.10.2560.1409@0.0.2560.1409" timestamp="1580604930406" />
-    <state width="2517" height="386" key="GridCell.Tab.0.right/3840.10.2560.1409/0.0.2560.1409/2833.-1080.1920.1050@0.0.2560.1409" timestamp="1580360694247" />
-    <state width="2517" height="386" key="GridCell.Tab.0.right/3840.10.2560.1409/0.0.2560.1409/2833.-1080.1920.1050@3840.10.2560.1409" timestamp="1580176275769" />
-    <state width="2517" height="479" key="GridCell.Tab.1.bottom" timestamp="1580604410824">
-      <screen x="0" y="0" width="2560" height="1409" />
-    </state>
-    <state width="2517" height="479" key="GridCell.Tab.1.bottom/0.0.2560.1409/2833.-1080.1920.1050/3840.10.2560.1409@0.0.2560.1409" timestamp="1580604410824" />
-    <state width="2517" height="479" key="GridCell.Tab.1.center" timestamp="1580604410824">
-      <screen x="0" y="0" width="2560" height="1409" />
-    </state>
-    <state width="2517" height="479" key="GridCell.Tab.1.center/0.0.2560.1409/2833.-1080.1920.1050/3840.10.2560.1409@0.0.2560.1409" timestamp="1580604410824" />
-    <state width="2517" height="479" key="GridCell.Tab.1.left" timestamp="1580604410823">
-      <screen x="0" y="0" width="2560" height="1409" />
-    </state>
-    <state width="2517" height="479" key="GridCell.Tab.1.left/0.0.2560.1409/2833.-1080.1920.1050/3840.10.2560.1409@0.0.2560.1409" timestamp="1580604410823" />
-    <state width="2517" height="479" key="GridCell.Tab.1.right" timestamp="1580604410824">
-      <screen x="0" y="0" width="2560" height="1409" />
-    </state>
-    <state width="2517" height="479" key="GridCell.Tab.1.right/0.0.2560.1409/2833.-1080.1920.1050/3840.10.2560.1409@0.0.2560.1409" timestamp="1580604410824" />
-    <state width="2517" height="479" key="GridCell.Tab.2.bottom" timestamp="1580604410824">
-      <screen x="0" y="0" width="2560" height="1409" />
-    </state>
-    <state width="2517" height="479" key="GridCell.Tab.2.bottom/0.0.2560.1409/2833.-1080.1920.1050/3840.10.2560.1409@0.0.2560.1409" timestamp="1580604410824" />
-    <state width="2517" height="479" key="GridCell.Tab.2.center" timestamp="1580604410824">
-      <screen x="0" y="0" width="2560" height="1409" />
-    </state>
-    <state width="2517" height="479" key="GridCell.Tab.2.center/0.0.2560.1409/2833.-1080.1920.1050/3840.10.2560.1409@0.0.2560.1409" timestamp="1580604410824" />
-    <state width="2517" height="479" key="GridCell.Tab.2.left" timestamp="1580604410824">
-      <screen x="0" y="0" width="2560" height="1409" />
-    </state>
-    <state width="2517" height="479" key="GridCell.Tab.2.left/0.0.2560.1409/2833.-1080.1920.1050/3840.10.2560.1409@0.0.2560.1409" timestamp="1580604410824" />
-    <state width="2517" height="479" key="GridCell.Tab.2.right" timestamp="1580604410824">
-      <screen x="0" y="0" width="2560" height="1409" />
-    </state>
-    <state width="2517" height="479" key="GridCell.Tab.2.right/0.0.2560.1409/2833.-1080.1920.1050/3840.10.2560.1409@0.0.2560.1409" timestamp="1580604410824" />
-    <state width="2517" height="479" key="GridCell.Tab.3.bottom" timestamp="1580604410825">
-      <screen x="0" y="0" width="2560" height="1409" />
-    </state>
-    <state width="2517" height="479" key="GridCell.Tab.3.bottom/0.0.2560.1409/2833.-1080.1920.1050/3840.10.2560.1409@0.0.2560.1409" timestamp="1580604410825" />
-    <state width="2517" height="479" key="GridCell.Tab.3.center" timestamp="1580604410825">
-      <screen x="0" y="0" width="2560" height="1409" />
-    </state>
-    <state width="2517" height="479" key="GridCell.Tab.3.center/0.0.2560.1409/2833.-1080.1920.1050/3840.10.2560.1409@0.0.2560.1409" timestamp="1580604410825" />
-    <state width="2517" height="479" key="GridCell.Tab.3.left" timestamp="1580604410824">
-      <screen x="0" y="0" width="2560" height="1409" />
-    </state>
-    <state width="2517" height="479" key="GridCell.Tab.3.left/0.0.2560.1409/2833.-1080.1920.1050/3840.10.2560.1409@0.0.2560.1409" timestamp="1580604410824" />
-    <state width="2517" height="479" key="GridCell.Tab.3.right" timestamp="1580604410825">
-      <screen x="0" y="0" width="2560" height="1409" />
-    </state>
-    <state width="2517" height="479" key="GridCell.Tab.3.right/0.0.2560.1409/2833.-1080.1920.1050/3840.10.2560.1409@0.0.2560.1409" timestamp="1580604410825" />
-    <state x="782" y="349" key="SettingsEditor" timestamp="1580358761449">
-      <screen x="0" y="0" width="2560" height="1409" />
-    </state>
-    <state x="782" y="349" key="SettingsEditor/3840.10.2560.1409/0.0.2560.1409/2833.-1080.1920.1050@0.0.2560.1409" timestamp="1580358761449" />
-    <state x="981" y="530" key="com.intellij.ide.util.TipDialog" timestamp="1579906887789">
-      <screen x="0" y="0" width="2560" height="1409" />
-    </state>
-    <state x="981" y="530" key="com.intellij.ide.util.TipDialog/3840.10.2560.1409/0.0.2560.1409/2833.-1080.1920.1050@0.0.2560.1409" timestamp="1579906887789" />
-    <state x="966" y="309" width="763" height="792" key="find.popup" timestamp="1580602911862">
-      <screen x="0" y="0" width="2560" height="1409" />
-    </state>
-    <state x="966" y="309" width="763" height="792" key="find.popup/0.0.2560.1409/2833.-1080.1920.1050/3840.10.2560.1409@0.0.2560.1409" timestamp="1580602911862" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/pokemon-go.js</url>
-          <line>10</line>
-          <properties lambdaOrdinal="-1" />
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state width="3397" height="515" key="GridCell.Tab.0.right/2955.-1080.1920.1042/0.0.3072.1698/3840.0.3440.1440@3840.0.3440.1440" timestamp="1598399640224" />
+    <state width="2517" height="563" key="GridCell.Tab.0.right/3840.10.2560.1409/0.0.2560.1409/2833.-1080.1920.1050@3840.10.2560.1409" timestamp="1590373194279" />
   </component>
 </project>

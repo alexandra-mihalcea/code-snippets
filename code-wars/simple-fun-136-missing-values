@@ -1,0 +1,15 @@
+//https://www.codewars.com/kata/58a66c208b88b2de660000c3/train/javascript
+
+function missingValues(arr) {
+    let res = 1
+    while (arr.length > 0) {
+        let count = 0
+        let target = arr[0]
+        while (arr.indexOf(target) !== -1) {
+            arr.splice(arr.indexOf(target), 1)
+            count++
+        }
+        res = count === 1 ? res * target * target : count === 2 ? res * target : res
+    }
+    return res
+}

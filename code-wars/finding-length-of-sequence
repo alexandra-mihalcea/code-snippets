@@ -1,0 +1,9 @@
+//https://www.codewars.com/kata/5566b0dd450172dfc4000005/train/javascript
+
+function lengthOfSequence(arr, n) {
+    let start = arr.indexOf(n)
+    arr.splice(start, 1)
+    let end = arr.indexOf(n)
+    arr.splice(end, 1)
+    return start === -1 || end === -1 ? 0 : arr.indexOf(n) !== -1 ? 0 : end - start + 2
+}

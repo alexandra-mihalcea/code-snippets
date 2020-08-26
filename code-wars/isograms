@@ -1,0 +1,12 @@
+//https://www.codewars.com/kata/54ba84be607a92aa900000f1/train/javascript
+
+
+function isIsogram(str){
+    str = str.toLowerCase().split('')
+    while(str.length>0){
+        let target = str[0]
+        str.splice(str.indexOf(target),1)
+        if(str.indexOf(target) !== -1) return false
+    }
+    return true
+}
